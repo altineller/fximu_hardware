@@ -1,0 +1,61 @@
+Partlist
+
+Exported from FXIMU.brd at 9/17/19 11:51 PM
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value              Package                      Library            Position (inch)       Orientation
+
+AI2      PTR1TP06R          TP06R                        testpad            (0.314 0.724)         R0
+C1       10nF               C0402                        rc-master-smd      (0.464 0.709)         R270
+C2       100nF              C0402                        rc-master-smd      (0.416 0.709)         R270
+C3       10uF               C0603                        rc-master-smd      (0.441 0.787)         R0
+C4       10pF               C0402                        rc-master-smd      (1.159 0.4)           R180
+C5       10pF               C0402                        rc-master-smd      (1.289 0.401)         R0
+C6       100nF              C0402                        rc-master-smd      (0.444 0.924)         R180
+C7       10nF               C0402                        rc-master-smd      (1.15109449 0.66384252) R90
+C8       100nF              C0402                        rc-master-smd      (0.816 0.896)         R180
+C9       10nF               C0402                        rc-master-smd      (0.456 0.49348031)    R180
+C10      100nF              C0402                        rc-master-smd      (0.456 0.54148031)    R180
+C11      1uF                C0402                        rc-master-smd      (1.19986614 0.66373228) R90
+C12      10nF               C0402                        rc-master-smd      (0.816 0.944)         R180
+C13      100nF              C0402                        rc-master-smd      (0.72 0.896)          R0
+C14      100nF              C0402                        rc-master-smd      (0.812 0.296)         R0
+C15      1uF                C0402                        rc-master-smd      (0.72 0.944)          R0
+C16      2.2uf              C0603                        rc-master-smd      (0.801 0.239)         R0
+C20      22uF               C3528-21/T                   rc-master-smd      (1.034 0.183)         R90
+C21      100nF              C0402                        rc-master-smd      (0.946 0.183)         R270
+C22      10nF               C0402                        rc-master-smd      (1.186 0.143)         R180
+C23      100nF              C0402                        rc-master-smd      (1.356 0.326)         R0
+C24      22uF               C3528-21/T                   rc-master-smd      (1.358 0.192)         R90
+C30      100nF              C0402                        rc-master-smd      (0.07925984 0.615)    R90
+C31      10uF               C0603                        rc-master-smd      (0.007 0.404)         R0
+C32      100nF              C0402                        rc-master-smd      (-0.12 0.76)          R180
+C33      100nF              C0402                        rc-master-smd      (-0.216 0.672)        R90
+C34      100nF              C0402                        rc-master-smd      (-0.00074016 0.47)    R0
+C35      10nF               C0402                        rc-master-smd      (-0.121 0.811)        R180
+F1       0805L050           0805L                        polyfuse-smd_10    (1.176 0.832)         R90
+GI2      PTR1TP06R          TP06R                        testpad            (0.416 0.416)         R0
+IC1      TM4C123[7,G]XXPM   PM_S-PQFP-G64                ti-tiva            (0.78740157 0.59055118) R0
+JP1      2x5                2X05                         pinhead            (0.264 0.176)         R0
+JTAG     FTSH-105-01-L-DV-K SAMTEC_FTSH-105-01-L-DV-K    FTSH-105-01-L-DV-K (0.08674016 0.98425197) R180
+LED      603 LED            CHIPLED_0603                 microbuilder       (0.742 0.168)         R90
+R1       0                  R0402                        rc-master-smd      (1.15 0.976)          R0
+R2       0                  R0402                        rc-master-smd      (1.04 0.84)           R270
+R3       10K                R0402                        rc-master-smd      (0.368 0.904)         R90
+R4       220                R0402                        rc-master-smd      (0.579 0.924)         R0
+R5       100                R0402                        rc-master-smd      (0.25669291 0.98401575) R270
+R6       10K                R0402                        rc-master-smd      (1.008 1.024)         R180
+R7       10K                R0402                        rc-master-smd      (1.008 1.072)         R180
+R8       10K                R0402                        rc-master-smd      (1.008 0.976)         R0
+R9       1K                 R0402                        rc-master-smd      (0.852 0.168)         R180
+R10      10K                R0402                        rc-master-smd      (-0.183 0.38)         R270
+R11      10K                R0402                        rc-master-smd      (-0.13 0.38)          R270
+RESET    SPST-SMD-6.0X3.5MM TACTILE_SWITCH_SMD_6.0X3.5MM SparkFun-Switches  (0.51181102 1.02362205) R180
+U1       TPS73633           SOT23-5L                     tpslib             (1.186 0.231)         R270
+U2       FXOS8700CQ         QFN16_3MM_FREESCALE_5X3      microbuilder       (-0.07874016 0.59055118) R0
+U3       FXAS21002C         QFN24_4MM_FREESCALE_7X5      microbuilder       (0.21653543 0.59055118) R180
+USB      USB_MICRO          USB_MICRO_MOLEX_FULL         FLYTRON            (1.3976378 0.90551181) R90
+Y2       16Mhz              6X3.3MM                      abracon            (1.224 0.504)         R0
